@@ -22,7 +22,3 @@
 <!-- BLOG-POST-LIST:START -->
 - [My Experience In Emerald Academy&#39;s Cadence Bootcamp](https://cryptochica.hashnode.dev/my-experience-in-emerald-academys-cadence-bootcamp)
 <!-- BLOG-POST-LIST:END -->
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
